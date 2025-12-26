@@ -1,0 +1,5 @@
+{
+  "name": "FinAI Expense Tracker",
+  "description": "An AI-powered personal finance manager that tracks spending, provides budget insights, and suggests saving strategies using Gemini AI.",
+  "requestFramePermissions": []
+}
